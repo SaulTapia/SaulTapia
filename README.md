@@ -1,7 +1,6 @@
 - 👋 Hello, I’m Saul Tapia
-- 👀 I'm currently interested in P2P connections, networks and games.
-- 🌱 I’m currently learning Peer.js
-- 💞️ I’m looking to collaborate on interesting projects involving real-time connections
+- 👀 I'm currently interested in online game development.
+- 🌱 I’m currently working on an online videogame called Brain Crankin, check it out at https://www.braincrankin.com/
 - 📫 How to reach me: Email me at saultapiadev@gmail.com
 
 <!---
