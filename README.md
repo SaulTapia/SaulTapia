@@ -1,6 +1,7 @@
 - 👋 Hello, I’m Saul Tapia
-- 👀 I'm currently interested in online game development.
-- 🌱 I’m currently working on an online videogame called Brain Crankin, check it out at https://www.braincrankin.com/
+- 👀 I'm currently interested in mobile development.
+- 📱 I'm building a mobile app.
+- 🌱 I made an online videogame called Brain Crankin, check it out at https://www.braincrankin.com/
 - 📫 How to reach me: Email me at saultapiadev@gmail.com
 
 <!---
